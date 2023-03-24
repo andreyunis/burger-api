@@ -1,3 +1,2 @@
 # burger-api
-
-My Burer Api
+My Burger Api
